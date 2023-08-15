@@ -1,7 +1,7 @@
 import React from "react";
 import {
     Box,
-    Fivider,
+    //Fivider,
     Drawer,
     IconButton,
     List,
@@ -13,7 +13,7 @@ import {
     useTheme,
 } from "@mui/material";
 import {
-    SettingsOutlined,
+    //SettingsOutlined,
     ChevronLeft,
     ChevronRightOutlined,
     HomeOutlined,
@@ -31,7 +31,7 @@ import {
 import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
 import FlexBetween from "./FlexBetween";
-import profileImage from "assets/Power.jpg";
+//import profileImage from "assets/Power.jpg";
 
 const navItems = [
     {
